@@ -40,7 +40,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 import glaLogo from './assets/education_logo/gla_logo.png';
-import bsaLogo from './assets/education_logo/College.png';
+import CollegeLogo from './assets/education_logo/images.png';
 import vpsLogo from './assets/education_logo/school.png';
 
 // Project Section Logo's
@@ -180,7 +180,7 @@ export const SkillsInfo = [
     // },
     {
       id: 1,
-      img: bsaLogo,
+      img: CollegeLogo,
       school: "Ajay Kumar Garg Engg College, Ghaziabad",
       date: "Nov 2022 - Aug 2026",
       grade: "70.2%",
